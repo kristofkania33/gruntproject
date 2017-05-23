@@ -8,7 +8,7 @@ module.exports = function(grunt) {
       },
       dist: {
         files: {
-          'hallogrunt/main.css': 'hallogrunt/main.sass'
+          'main.css': 'main.sass'
         }
       }
     },
